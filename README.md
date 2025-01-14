@@ -110,8 +110,7 @@ To run the `final_project.ipynb` file for inference in Google Colab:
     Ensure the Colab session is connected to a free GPU runtime.
     Check runtime type under Runtime > Change runtime type and select GPU.
 ## Project Attachments  
-1.⁠  ⁠*Presentation Link*: https://youtu.be/4edAK2OjUu4 \
-2.⁠  ⁠*Project Demo Link*: https://youtu.be/gDksvHqDzNs \
-3.⁠  ⁠*Dataset Link*: https://drive.google.com/drive/folders/1DiNI8N2tjSfx6K9MFgu5IdIZVHb2Bi3Y?usp=sharing \
-4.⁠  ⁠*Project Documents Link*: https://drive.google.com/drive/folders/1MUaLMb42silAoXdXlj5suvDwAEghulr5 
+1.⁠  ⁠*Project Demo Link*: https://youtu.be/gDksvHqDzNs \
+2.⁠  ⁠*Dataset Link*: https://drive.google.com/drive/folders/1DiNI8N2tjSfx6K9MFgu5IdIZVHb2Bi3Y?usp=sharing \
+3.⁠  ⁠*Project Documents Link*: https://drive.google.com/drive/folders/1MUaLMb42silAoXdXlj5suvDwAEghulr5 
 ---
